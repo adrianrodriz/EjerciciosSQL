@@ -4,4 +4,4 @@ Esta base de datos es un fichero .db (base de datos SQLite) con los datos que se
 
 Puedes encontrar un enlace al contenido original en el siguiente enlace 
 
-[Datos Northwind]([https://ejemplo.com](https://en.wikiversity.org/wiki/Database_Examples/Northwind/SQLite))
+[Datos Northwind](https://en.wikiversity.org/wiki/Database_Examples/Northwind/SQLite)
